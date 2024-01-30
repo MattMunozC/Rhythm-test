@@ -1,0 +1,1 @@
+This is just a small app nothing out of the ordinary, the only function it has it to time how much does it take you to press the botton after you hear the sound, try to beat your own score! that's all. have fun!
